@@ -1,0 +1,106 @@
+@media only screen and (max-width: 480px) {
+  img {
+    width: 270px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape)
+{
+  img {width: 600px;
+  height: auto}
+}
+
+@media only screen and (max-resolution: 150dpi) and (max-width: 480px)
+{
+  p {font-size: 20px}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  .gallery-item .thumbnail {
+    width: 95%;
+  }
+}
+html {
+  font-size: 18px
+}
+.container {
+
+  overflow: hidden;
+}
+
+.container img {
+
+  display: block;
+}
+.logo
+{
+  max-height: 50px;
+  width: auto;
+  margin-bottom: 4px;
+  background-color: white;
+  opacity: .1;
+  padding-bottom: 3px
+}
+
+h1
+{
+  font-size: 2.8rem;
+  font-family: 'PT Serif', serif;
+  margin-top: 3px;
+  padding-top: 13px
+}
+
+
+figcaption {font-size: .9rem;
+  font-family: 'pt serif', serif;
+  font-style: italic;
+   margin-right: 10px; margin-left: 10px}
+article
+{
+  font-family: 'pt serif', serif;
+
+}
+
+img {
+
+  padding-right: 30px
+  height: auto;
+  width: 600px;
+  max-width: 100%
+}
+
+h2
+{
+  color: gray;
+  font-size: .7rem;
+
+}
+
+figure {background-color: #F1F6F7;
+background-size: contain;
+max-width: 600;
+height: auto;
+spacing: 1px;
+margin-bottom: 10px}
+
+html {
+  padding: 20px 25px;
+
+
+}
+
+.byline {letter-spacing: .6px
+}
+
+p
+{font-size: 18px
+
+}
+
+ul{font-size: 17px}
+
+
+
+.boilerplate
+{
+  font-style: italic;
+}
