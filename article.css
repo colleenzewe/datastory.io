@@ -30,7 +30,11 @@ html {
 
   overflow: hidden;
 }
-
+.dateline {
+    font-family: "Apres RE","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    color: #df4e13;
+}
 .container img {
 
   display: block;
