@@ -33,7 +33,10 @@ html {
 .dateline {
     font-family: "Apres RE","Helvetica Neue",Helvetica,Arial,sans-serif;
     text-transform: uppercase;
-    color: ##730099;
+    color: #730099;
+}
+.purple
+{color: #730099;
 }
 h5 {
   font-size: 12px;
