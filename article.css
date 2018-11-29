@@ -35,6 +35,9 @@ html {
     text-transform: uppercase;
     color: ##cb7cef;
 }
+h5 {
+  font-size: 12px;
+}
 .container img {
 
   display: block;
