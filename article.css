@@ -88,6 +88,13 @@ h2
 
 }
 
+.cdc {
+  font-size: .9rem;
+    font-family: "Turnip RE",Georgia,"Times New Roman",Times,serif;
+    font-style: italic;
+     margin-right: 10px; margin-left: 10px
+}
+
 figure {background-color: #ead4f9;
 background-size: contain;
 max-width: 600;
