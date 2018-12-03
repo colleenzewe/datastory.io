@@ -24,7 +24,8 @@
   }
 }
 html {
-  font-size: 18px
+  font-size: 18px;
+  margin-right: 3px
 }
 .container {
 
