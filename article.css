@@ -25,7 +25,8 @@
 }
 html {
   font-size: 18px;
-  margin-left: 3px
+  margin-left: 3px;
+  margin-right: 1.5px
 }
 .container {
 
@@ -41,6 +42,11 @@ html {
 }
 h5 {
   font-size: 12px;
+}
+
+a:hover
+{
+color: #9728ed;
 }
 .container img {
 
