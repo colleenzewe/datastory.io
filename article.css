@@ -75,10 +75,11 @@ figcaption {font-size: .9rem;
   font-family: "Turnip RE",Georgia,"Times New Roman",Times,serif;
   font-style: italic;
    margin-right: 10px; margin-left: 10px}
-.caption {font-size: .9rem;
+.caption {font-size: .7rem;
   font-family: "Turnip RE",Georgia,"Times New Roman",Times,serif;
   font-style: italic;
-   margin-right: 10px; margin-left: 10px}
+   margin-right: 10px; margin-left: 10px;
+ color: gray}
 article
 {
   font-family: 'pt serif', serif;
